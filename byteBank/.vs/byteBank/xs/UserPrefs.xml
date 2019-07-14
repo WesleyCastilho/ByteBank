@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5A52605A-4B9F-461F-8D27-C1E05B26EA9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="byteBank/Startup.cs">
+    <Files>
+      <File FileName="byteBank/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="byteBank/Views/Shared/_CookieConsentPartial.cshtml" />
+      <File FileName="byteBank/Program.cs" />
+      <File FileName="byteBank/Startup.cs" Line="41" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="byteBank" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="byteBank" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.byteBank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
